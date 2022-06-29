@@ -1,1 +1,1 @@
-# FreeCodeCamp_BackEnd_Course
+# FreeCodeCamp Backend course
