@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Andres Aranguren",
-	"description": "Vamonos a marte, donde todo es mas callado y solitario pa' los dos",
+	"description": "Vamonos a marte, donde todo es mas callado y solitario pa' los dos, toma mi mano y vamonos de aquí",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,6 +12,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"devDependencies": {
+		"glitcheroo": "^1.2.1"
 	}
-	
 }
