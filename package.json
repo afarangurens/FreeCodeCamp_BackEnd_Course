@@ -3,6 +3,7 @@
 	"author": "Andres Aranguren",
 	"description": "Vamonos a marte, donde todo es mas callado y solitario pa' los dos, toma mi mano y vamonos de aquí",
 	"keywords": ["I", "Miss", "You", "freecodecamp"],
+	"license": "Yo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
